@@ -1,3 +1,3 @@
-# Unhinge
+# PairUP
 
 This can support up to 1000000 members. Each member can have dozens of attribute-value associate with it. For instance, a person could have a hobby of cooking. All of the members' information are stored in member.txt. Furthermore, there is a file called translation.txt that matches attribute-value pairs to other attribute-value pairs. For instance, hobby of cooking could be matched to hobby of eating since a person who enjoyes to eat may want to be partiner with a person who loves cooking. Given a person's name, this program will rank order all potential matches for a member by identifying the people with the most compatible attribute-value pairs to that member within a few second. The key challenge for this program is to process such huge amount of data fast.
